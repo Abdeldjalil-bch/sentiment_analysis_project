@@ -1,0 +1,12 @@
+RÉSUMÉ DES MÉTRIQUES - hybrid
+==================================================
+Accuracy      : 0.7042
+F1 Macro      : 0.7053
+F1 Weighted   : 0.7034
+ROC AUC Micro : 0.8699
+ROC AUC Macro : 0.8657
+
+F1 par classe :
+  Négatif     : 0.6975
+  Neutre      : 0.6464
+  Positif     : 0.7720

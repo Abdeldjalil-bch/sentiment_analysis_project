@@ -1,0 +1,12 @@
+RÉSUMÉ DES MÉTRIQUES - bilstm_attention
+==================================================
+Accuracy      : 0.7052
+F1 Macro      : 0.7062
+F1 Weighted   : 0.7049
+ROC AUC Micro : 0.8692
+ROC AUC Macro : 0.8642
+
+F1 par classe :
+  Négatif     : 0.6906
+  Neutre      : 0.6519
+  Positif     : 0.7762

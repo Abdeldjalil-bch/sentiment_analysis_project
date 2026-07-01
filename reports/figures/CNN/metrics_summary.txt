@@ -1,0 +1,12 @@
+RÉSUMÉ DES MÉTRIQUES - CNN
+==================================================
+Accuracy      : 0.6783
+F1 Macro      : 0.6789
+F1 Weighted   : 0.6797
+ROC AUC Micro : 0.8429
+ROC AUC Macro : 0.8373
+
+F1 par classe :
+  Négatif     : 0.6398
+  Neutre      : 0.6539
+  Positif     : 0.7431

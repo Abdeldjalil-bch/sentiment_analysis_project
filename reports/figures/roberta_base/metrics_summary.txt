@@ -1,0 +1,12 @@
+RÉSUMÉ DES MÉTRIQUES - roberta_base
+==================================================
+Accuracy      : 0.7688
+F1 Macro      : 0.7716
+F1 Weighted   : 0.7688
+ROC AUC Micro : 0.9184
+ROC AUC Macro : 0.9150
+
+F1 par classe :
+  Négatif     : 0.7812
+  Neutre      : 0.7081
+  Positif     : 0.8253
